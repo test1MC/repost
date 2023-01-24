@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ru-ru;es" xml:lang="ru-ru" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="">
+    <ProjectFile Source="Target/SIDE-NAV-FOR-LINGO.flprj" Target="Target/SIDE-NAV-FOR-LINGO.flprj" />
+    <TMConnection Connection="NEWS.db" ReadOnly="false" Type="StandAlone" />
+</LingoProject>
